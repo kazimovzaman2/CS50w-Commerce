@@ -10,7 +10,7 @@ Status: completed and submitted (Pass)
 > Creating a virtual environment is optional, but it is usually better to do so if you know how.
 Clone this repository
 ```bash
-git clone https://github.com/kazimovzaman2/cs50w_commerce.git
+git clone https://github.com/kazimovzaman2/CS50w-Commerce.git
 cd cs50w_commerce
 ```  
 Install any required dependencies
