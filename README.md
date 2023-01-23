@@ -27,5 +27,8 @@ Run the development server
 python manage.py runserver
 ```
 
+## Dema
+![image](https://user-images.githubusercontent.com/92586852/213959465-8bdca7bd-ce89-461b-af78-58b003cc6152.png)
+
 ## Note on academic honesty
 If you're taking CS50W, either through [Harvard Extension School](https://extension.harvard.edu/), [Harvard Summer School](https://summer.harvard.edu/) or [OpenCourseWare](https://cs50.harvard.edu/web/), please do not blindly copy paste my code. You are putting yourself at a huge risk for getting excluded from the course by the staff themselves as they grade each project thoroughly. This is a course offered by Harvard, and you will be put up to their standard.
